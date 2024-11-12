@@ -1,0 +1,5 @@
+nombre=input("Digite su nombre")
+estaura=float(input("Digite su estatura"))
+peso=float(input("Digite su peso"))
+IMC = peso/(estatura**2)
+print("Hola",nombre,"su IMC",IMC)
